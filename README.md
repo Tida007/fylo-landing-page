@@ -20,4 +20,4 @@ Your users should be able to:
 
 - Coded By: [Tida Tmg]
 - Solution Website: [()]
-- Live server website: [()]
+- Live server website: [(https://tida007.github.io/fylo-landing-page/)]
