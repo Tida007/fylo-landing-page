@@ -10,7 +10,7 @@ validator
         },
         {
             rule: "email",
-            errorMessage: "Valid email is required"
+            errorMessage: "Please enter a valid email"
         },
     ])
     .onSuccess((event) => {
